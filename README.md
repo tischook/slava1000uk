@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Slava.
+- 👋 Hi there.
 - 🦍 I am an Angular Frontend Developer.
 - 👨‍💻 I have worked in Angular, Typescript, RxJs, Angular Material, HTML, CSS, SCSS, Git, GitHub.
 - 🌱 In every situation I see possibilities and solutions, not problems.
